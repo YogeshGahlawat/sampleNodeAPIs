@@ -1,0 +1,21 @@
+{
+  "name": "samplenodeapis",
+  "version": "1.0.0",
+  "description": "a sample implementation of rest apis in node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "REST API",
+    "NODE REST API",
+    "APIs",
+    "A SAMPLE REST NODE APIs"
+  ],
+  "author": "Yogesh Gahlawat",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
